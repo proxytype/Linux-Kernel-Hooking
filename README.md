@@ -1,2 +1,2 @@
 # Linux-Kernel-Hooking
-Simple Linux Driver for locking files from read using dump fake_read function before send to original
+Simple Linux Driver for locking files from read using fake_read function before send to original
